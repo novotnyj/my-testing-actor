@@ -4,6 +4,7 @@
     "title": "Getting Started Actor",
     "description": "Adds two integers.",
     "version": "0.0.1",
+    "readme": "myActor.md",
     "storages": {
         "dataset": {
             "actorSpecification": 1,
