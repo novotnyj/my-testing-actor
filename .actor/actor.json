@@ -5,6 +5,7 @@
     "description": "Adds two integers.",
     "version": "0.0.1",
     "readme": "foomyActor.md",
+    "dockerfile": "./Docker/Dockerfile",
     "storages": {
         "dataset": {
             "actorSpecification": 1,
