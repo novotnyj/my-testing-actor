@@ -4,7 +4,9 @@
     "title": "Getting Started Actor",
     "description": "Adds two integers.",
     "version": "0.0.1",
-    "readme": "foomyActor.md",
+    "readme": "_actor.md",
+    "dockerfile": "./Docker/Dockerfile",
+    "input": "./INPUT_SCHEMA.json",
     "storages": {
         "dataset": {
             "actorSpecification": 1,
